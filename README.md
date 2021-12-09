@@ -1,27 +1,31 @@
-- 👋 Hi, I’m @luisfmontemayor, I am a Cell Biologist with a background in Biology of Ageing research
-- 👀 I’m interested in Computational Biology and Complex Biological System reseach 
-- </> I currently know 3 programming languages to an advanced level: Python, R, and Unix/Linux (bash particularly) 
-- </> I have experience with SQL and Git through personal projects
-- 🌱 I’m currently learning about machine learning approaches for biology
-- 💞️ I’d love to collaborate on any type of data analysis research
-- 📫 How to reach me: luis.montemayor.17@ucl.ac.uk
+- 👋 Hi, I’m @luisfmontemayor, I am a Cell Biologist with a strong background in Computational Biology and Bioinformatics.
+- 👀 I’m interested in Computational Biology and Complex Biological System reseach.
+- </> I currently know 3 programming languages to an advanced level: Python, R, and Unix/Linux (bash particularly).
+- </> I have gained proficiency in SQL, Git and LaTeX through independent learning.
+- 🌱 I’m currently learning about machine learning approaches for biology.
+- 💞️ I’d love to collaborate on any type of data analysis research.
+- 📫 How to reach me: luis.montemayor.17@ucl.ac.uk.
 
 
-Welcome to my GItHub page! I am currently assembling code from across a series of projects and displaying them as markdowns.
-   
-   Any of the projects listed
-   
-   The projects with repositories currently listed (still being put into markdowns) are:
+
+Welcome to my GItHub page! I am currently assembling code from across a series of projects to exhibit here, ultimately aiming to display them as markdowns.
+    
+    
+   Projects with repositories currently listed (still being put into markdowns) are:
 -CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle
 -Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna
 
-   The projects I am currently assembling include:
+
+   Previous projects I am currently assembling for upload:
 -Estimation of evolutionary distance between Humans and Chimps through Bayesian inference (R).
--Modelling approaches to COVID19 using variations of the SIR model (Python)
+-Association study practice, including GWAS and eQTL analysis (R).
+-Modelling approaches to COVID19 using variations of the SIR model (Python).
+-Modelling a Goodwin Occilator (Python).
+
+
+
 
 Arrangements to see particular projects can be made, please contact me through luis.montemayor.17@ucl.ac.uk
-
-
 
 
 Kind regards,
