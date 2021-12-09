@@ -11,18 +11,18 @@
 Welcome to my GItHub page! I am currently assembling code from across a series of projects to exhibit here, ultimately aiming to display them as markdowns.
     
     
-   Projects with repositories currently listed (still being put into markdowns) are:\n
--CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle\n
--Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna\n \n
+   Projects with repositories currently listed (still being put into markdowns) are:
+-CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle.
+-Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna.
 
 
-   Previous projects I am currently assembling for upload:\n
--Estimation of evolutionary distance between Humans and Chimps through Bayesian inference (R).\n
--Association study practice, including GWAS and eQTL analysis (R).\n
--Modelling approaches to COVID19 using variations of the SIR model (Python).\n
--Modelling a Goodwin Occilator (Python).\n
-\n
-\n
+   Previous projects I am currently assembling for upload:
+-Estimation of evolutionary distance between Humans and Chimps through Bayesian inference (R).
+-Association study practice, including GWAS and eQTL analysis (R).
+-Modelling approaches to COVID19 using variations of the SIR model (Python).
+-Modelling a Goodwin Occilator (Python).
+
+
 
 
 Arrangements to see particular projects can be made, please contact me through luis.montemayor.17@ucl.ac.uk
