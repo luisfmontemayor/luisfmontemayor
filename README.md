@@ -12,8 +12,8 @@ Welcome to my GItHub page! I am currently assembling code from across a series o
     
     
    Projects with repositories currently listed (still being put into markdowns) are: <br />
-CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle. <br />
-Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna. <br />
+-CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle. <br />
+-Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna. <br />
 
 
    Previous projects I am currently assembling for upload: <br />
