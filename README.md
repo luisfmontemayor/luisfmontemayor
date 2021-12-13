@@ -12,15 +12,17 @@ Welcome to my GItHub page! I am currently assembling code from across a series o
     
     
    Projects with repositories currently listed (still being put into markdowns) are:
--CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle.
--Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna.
+CellCycling: Master's Bioinformatics project: Characterizing lncRNA expression patterns as a function of the cell cylcle.
+Senecio: Biological sampling data Statistical Analysis (R): Studying conditions affecting speciation the speciation of two Senecio species in Mt Etna.
 
 
    Previous projects I am currently assembling for upload:
--Estimation of evolutionary distance between Humans and Chimps through Bayesian inference (R).
+-Tumour clonal reconstruction using a Dirichlet process (R).
 -Association study practice, including GWAS and eQTL analysis (R).
 -Modelling approaches to COVID19 using variations of the SIR model (Python).
 -Modelling a Goodwin Occilator (Python).
+-Estimation of evolutionary distance between Humans and Chimps through Bayesian inference (R).
+
 
 
 
