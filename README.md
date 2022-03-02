@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @luisfmontemayor, I am a Cell Biologist with a strong background in Computational Biology and Bioinformatics.
+- 👋 Hi, I’m @luisfmontemayor, I am a Cell and Computational Biologist.
 - 👀 I’m interested in Computational Biology and Complex Biological System reseach.
 - </> I currently know 3 programming languages to an advanced level: Python, R, and Unix/Linux (bash particularly).
-- </> I have gained proficiency in SQL, Git and LaTeX through independent learning.
+- </> I have gained proficiency in Git and LaTeX through independent learning.
 - 🌱 I’m currently learning about machine learning approaches for biology.
 - 💞️ I’d love to collaborate on any type of data analysis research.
 - 📫 How to reach me: luis.montemayor.17@ucl.ac.uk.
