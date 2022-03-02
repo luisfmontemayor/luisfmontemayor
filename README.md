@@ -24,7 +24,7 @@ Welcome to my GItHub page! I am currently assembling code from across a series o
 <br />
 <br />
 <br />
-Arrangements to see particular projects can be made, please contact me through luis.montemayor.17@ucl.ac.uk
+Arrangements to see particular projects can be made, please contact me through lfelipemonte@gmail.com
 <br />
 <br />
 Kind regards, <br />
