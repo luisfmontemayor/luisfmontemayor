@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @luisfmontemayor, I am a Cell and Computational Biologist.
+@luisfmontemayor, I am a Cell and Computational Biologist.
+
+<!---
+luisfmontemayor/luisfmontemayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 - 👀 I’m interested in Computational Biology and Complex Biological System reseach.
 - </> I currently know 3 programming languages to an advanced level: Python, R, and Unix/Linux (bash particularly).
 - </> I have gained proficiency in Git and LaTeX through independent learning.
@@ -12,7 +17,5 @@ Welcome to my GItHub page! I am a Compuational Biologist and graduated from UCL 
 <br />
 <br />
 <br />
-<!---
-luisfmontemayor/luisfmontemayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
