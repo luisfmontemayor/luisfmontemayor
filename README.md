@@ -5,9 +5,9 @@
 <br />
 <br />
 Curretly working for Genpax as a Bioinformatician/Computational Biologist.
-
+<br />
 I have investigated the biology of _C. elegans_, _S. pombe_ and _N. gonorrhoeae_; I am actively thinking of what smaller organism to research next.
-
+<br />
 Working on updating my Github with previous projects as you read this.
 <!---
 luisfmontemayor/luisfmontemayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
