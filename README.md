@@ -3,7 +3,7 @@
 - A wet lab biologist with a background in biogerontology and microbiology research, with ample experience in high-throughput microscopy.
 - A computational Biologist with a high proficiency in Python, R and Linux Systems, not limited to (but including) Bash Scripting.
 - A bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
-- I have investigated the biology of _C. elegans_, _S. pombe_ and _N. gonorrhoeae_; I am actively brain storming what smaller organism I should research next.
+- I have investigated the biology of _C. elegans_, _S. pombe_ and _N. gonorrhoeae_; I am actively brain-storming what smaller organism I should research next.
 <br />
 <br />
 Curretly working for Genpax as a Bioinformatician/Computational Biologist.
