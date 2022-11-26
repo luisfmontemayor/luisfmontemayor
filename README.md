@@ -1,4 +1,4 @@
-#### @luisfmontemayor, an appreciator of life and it's workings:
+### @luisfmontemayor, an appreciator of life and it's workings:
 - A wet lab biologist with a background in biogerontology and microbiology research, with ample experience in high-throughput Fluorescent Microscopy.
 - A computational Biologist with a strong background in Python, R and Linux Systems (including Bash Scripting and DevOps).
 - A bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
