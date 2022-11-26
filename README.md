@@ -1,7 +1,11 @@
-@luisfmontemayor, a biologist
-- Computational Biologist with ample experience in R, Python and Linux Systems (including Bash Scripting and DevOps).
-- Bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
+#### @luisfmontemayor, an appreciator of life and it's workings:
+- A wet lab biologist with a background in biogerontology and microbiology research.
+- A computational Biologist with a strong background in Python, R and Linux Systems (including Bash Scripting and DevOps).
+- A bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
 
+Curretly working for Genpax as a Bioinformatician/Computational Biologist.
+
+Working on updating my Github with previous projects as you read this.
 <!---
 luisfmontemayor/luisfmontemayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
