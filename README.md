@@ -1,4 +1,6 @@
-@luisfmontemayor, I am a Cell and Computational Biologist.
+@luisfmontemayor, a biologist
+- Computational Biologist with ample experience in R, Python and Linux Systems (including Bash Scripting and DevOps).
+- Bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
 
 <!---
 luisfmontemayor/luisfmontemayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
