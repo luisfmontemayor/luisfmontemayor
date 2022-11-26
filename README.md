@@ -1,4 +1,5 @@
-### @luisfmontemayor, UCL Msci in Cell Biology. Appreciator of life and it's workings:
+### @luisfmontemayor, UCL Msci in Cell Biology. 
+### Appreciator of life and it's workings:
 - A wet lab biologist with a background in biogerontology and microbiology research, with ample experience in high-throughput microscopy.
 - A computational Biologist with a high proficiency in Python, R and Linux Systems, not limited to (but including) Bash Scripting.
 - A bioinformatician with great exposure to eukaryotic an prokaryotic WGS, including RNA-seq and DNA-seq.
