@@ -6,9 +6,9 @@ Currently working on learning projects and building open-source software.
 
 
 ## Technical Skills
-Programming Languages: Python (NumPy, Pandas, SciPy), JavaScript, TypeScript, ReScript, R, SQL, Bash, Groovy/Nextflow, C.\
-Front-End: React, HTML, CSS/Tailwind.\
-DevOps and Back-End: Docker, Kubernetes, Terraform, AWS (CLI, CloudFormation, Boto3), Node.js, FastAPI, Strawberry GraphQL, PostgreSQL, Ansible, Git/GitHub Actions.\
-Data and Bioinformatics: Statistical Analysis, ML (Keras, PyTorch), Data Pipelines (Nextflow), Genomics.\
+*Programming Languages*: Python (NumPy, Pandas, SciPy), JavaScript, TypeScript, ReScript, R, SQL, Bash, Groovy/Nextflow, C.\
+*Front-End*: React, HTML, CSS/Tailwind.\
+*DevOps and Back-End*: Docker, Kubernetes, Terraform, AWS (CLI, CloudFormation, Boto3), Node.js, FastAPI, Strawberry GraphQL, PostgreSQL, Ansible, Git/GitHub Actions.\
+*Data and Bioinformatics*: Statistical Analysis, ML (Keras, PyTorch), Data Pipelines (Nextflow), Genomics.\
 \
 Currently revising Data Structures and Algorithms and picking up Rust. 
