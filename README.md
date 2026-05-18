@@ -12,13 +12,13 @@ I enjoy building ergonomic products that solve complex real life problems, from 
 
 | Domain | Stack |
 | :--- | :--- |
-| **Languages** | Python (NumPy, Pandas, SciPy), JavaScript, TypeScript, ReScript, R, SQL, Bash, C  |
+| **Languages** | Python (NumPy, Pandas, SciPy), Nextflow/Groovy, JavaScript, TypeScript, ReScript, R, SQL, Bash, C, currently learning Rust  |
 | **Front-End** | React, HTML, CSS/Tailwind  |
-| **Back-End** | Node.js, FastAPI, PostgreSQL, GraphQL, Strawberry, Elixir |
+| **Back-End** | Node.js, FastAPI, PostgreSQL, FastAPI, GraphQL, Elixir |
 | **DevOps & Cloud** | Docker, Kubernetes, SGE scheduler, Terraform, Ansible, AWS (CLI, Boto3, CloudFormation), GitHub Actions |
-| **Data & ML** | awk, sed, PyTorch, Keras, Scikit-learn, NumPy, Pandas, SciPy  |
-| **Statistics & Modelling** | Statistical testing, Bayesian inference, dynamic system modelling  |
-| **Bioinformatics** | Nextflow/Groovy, open-source CLI tools (Bowtie2, SAMtools/BCFtools, Deseq2, BLAST), Bioconductor, Biopython, PyMol |
+| **Data & ML** | CLI wrangling (awk, grep, sed), deep learning (PyTorch, Keras), Classical ML (Scikit-learn) |
+| **Bioinformatics** | Nextflow pipelining, open-source CLI tools (Bowtie2, SAMtools/BCFtools, Deseq2, BLAST), Bioconductor, Biopython, PyMol |
+| **Statistics & Modelling** | Statistical Analysis (R, Pandas, SciPy), Bayesian modelling, dynamic system modelling |
 
 ---
 
@@ -41,4 +41,4 @@ I enjoy building ergonomic products that solve complex real life problems, from 
 
 ### Connect
 * [LinkedIn](https://linkedin.com/in/lf-montemayor)
-* [Email](mailto:lfelipemonte@gmail.com)
+* [Email](mailto:montemayor.luisf@gmail.com)
